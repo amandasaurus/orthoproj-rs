@@ -2,6 +2,7 @@
 name = "orthoproj"
 version = "0.1.0"
 authors = ["Rory McCann <rory@technomancy.org>"]
+license = "AGPL-3.0"
+repository = "https://github.com/rory/orthoproj-rs"
 
 [dependencies]
-image = "0.12.3"
